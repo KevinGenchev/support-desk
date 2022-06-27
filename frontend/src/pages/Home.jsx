@@ -14,7 +14,7 @@ function Home() {
       </Link> 
 
       <Link to="/tickets" className="btn btn-block">
-        <FaTicketAlt />
+        <FaTicketAlt /> 
         View My Ticket
       </Link>
     </>
